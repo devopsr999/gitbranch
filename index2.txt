@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 882E-54ED
+
+ Directory of C:\Users\devopsr999\Desktop\GitBranch
+
+2023-04-15  07:05 PM    <DIR>          .
+2023-04-15  06:25 PM    <DIR>          ..
+2023-04-15  07:02 PM                52 index1.txt
+2023-04-15  07:05 PM                 0 index2.txt
+2023-04-15  06:56 PM                 0 New logo image.bmp
+2023-04-15  06:56 PM               390 tesst1.txt
+2023-04-15  06:29 PM               411 test2.html
+               5 File(s)            853 bytes
+               2 Dir(s)  826,349,322,240 bytes free
