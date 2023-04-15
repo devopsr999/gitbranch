@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 882E-54ED
+
+ Directory of C:\Users\devopsr999\Desktop\GitBranch
+
+2023-04-15  06:28 PM    <DIR>          .
+2023-04-15  06:25 PM    <DIR>          ..
+2023-04-15  06:28 PM                 0 tesst1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  826,366,275,584 bytes free
